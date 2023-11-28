@@ -1,0 +1,2 @@
+# last-class-test
+test
